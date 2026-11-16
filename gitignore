@@ -1,0 +1,4 @@
+.env
+output/
+bin/
+audio2mp4
